@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/ViacheslavDemchenko/callboard-app.git/static/css/main.cb6b5705.css",
-    "main.js": "/ViacheslavDemchenko/callboard-app.git/static/js/main.a63c26c8.js",
-    "index.html": "/ViacheslavDemchenko/callboard-app.git/index.html",
-    "main.cb6b5705.css.map": "/ViacheslavDemchenko/callboard-app.git/static/css/main.cb6b5705.css.map",
-    "main.a63c26c8.js.map": "/ViacheslavDemchenko/callboard-app.git/static/js/main.a63c26c8.js.map"
+    "main.css": "/callboard-app/static/css/main.cb6b5705.css",
+    "main.js": "/callboard-app/static/js/main.a63c26c8.js",
+    "index.html": "/callboard-app/index.html",
+    "main.cb6b5705.css.map": "/callboard-app/static/css/main.cb6b5705.css.map",
+    "main.a63c26c8.js.map": "/callboard-app/static/js/main.a63c26c8.js.map"
   },
   "entrypoints": [
     "static/css/main.cb6b5705.css",
